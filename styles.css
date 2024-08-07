@@ -40,6 +40,7 @@ body {
 }
 
 .qr-text h1 {
+  text-align: center;
   font-size: 24px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
